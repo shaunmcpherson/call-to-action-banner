@@ -30,9 +30,11 @@ body {
 
 .content {
   left: 50%;
-  transform: translate(-50%);
-  margin: 0 .5rem;
-  padding: 0 1rem;
+  transform: translateX(-50%);
+  top: 25%;
+  transform: rotateY(-12.5%);
+  margin: 0;
+  padding: 1rem;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -64,13 +66,13 @@ body {
 }
 
 .mecha {
- width: 45%;
+  width: 33.3333%;
 }
 
 .text {
   display: flex;
   flex-direction: column;
-  width: 55%;
+  width: 66.6667%;
 }
 
 .mecha img {
