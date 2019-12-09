@@ -31,8 +31,8 @@ body {
 .content {
   left: 50%;
   transform: translateX(-50%);
-  top: 25%;
-  transform: rotateY(-12.5%);
+  top: 18%;
+  transform: rotateY(-9%);
   margin: 0;
   padding: 1rem;
   display: flex;
